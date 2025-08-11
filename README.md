@@ -5,6 +5,15 @@ It stores embeddings of each bug so it can instantly recall and provide suggesti
 
 Built for the **Dev.to Hackathon** 🏆
 
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/bug1.png" alt="Dashboard Screenshot" width="300">
+  <img src="assets/bug2.png" alt="Consumer Output" width="300">
+  <img src="assets/bug3.png" alt="Chat Feature" width="300">
+</p>
+
+
 ---
 
 ## 🚀 Features
